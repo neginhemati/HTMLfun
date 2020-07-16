@@ -1,0 +1,10 @@
+mailto:[Recipient's email address] <!-- Pre-populate the “to” field. If you dont want any recipients's emails to be shown in the email, leave this line blank and enter the first recipient in the nest BCC line --> 
+?bcc=[BCC recipient's email address] <!-- Pre-populate the “BCC” field --> 
+&bcc=[BCC recipient 2's email address] <!-- Add additional fields starting with a “&” and ending with “=” --> 
+&bcc=[BCC recipient 3's email address]
+&bcc=[BCC recipient 4's email address] <!-- ... and so on... --> 
+&subject=[Subject line] <!-- Pre-populate the subject line --> 
+&body=[To whom it may concern, ] <!-- Pre-populate the message body --> 
+%0A %0A[Message body continued] <!-- Add line breaks with "%0A" --> 
+
+<!-- Optionally, you can then shorten this code with a URL shortener, like TinyURL for greater usability --> 
